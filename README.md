@@ -1,4 +1,4 @@
-# Responsive Video Sharing Platform UI
+# Weather app API
 
 
 # Screenshot
